@@ -1,1 +1,1 @@
-# DTI_Project
+# Fashion_Recommender_System
